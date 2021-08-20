@@ -11,7 +11,7 @@ Hackintosh for Z390i
 - [ ] Sleep/Wake
 - [x] 📶 Ethernet
 - [x] 📶 Intel WiFi
-- [ ] 📶 Intel Bluetooth
+- [x] 📶 Intel Bluetooth
 - [x] 🔌 USB 2.0
 - [ ] 🔌 All USB Ports (?)
 - [ ] 💬 iMessage
