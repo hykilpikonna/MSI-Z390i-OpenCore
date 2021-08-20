@@ -15,6 +15,6 @@
 - [x] 📶 Intel WiFi
 - [x] 📶 Intel Bluetooth
 - [x] 🔌 [USB Ports](USB.png)
-- [ ] 💬 iMessage (Not Tested)
+- [x] 💬 iMessage
 - [x] 🎧 Realtek ALC892 Audio
 
