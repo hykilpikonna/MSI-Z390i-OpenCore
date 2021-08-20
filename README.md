@@ -9,7 +9,7 @@ Hackintosh for Z390i
   - [ ] DisplayPort
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
 - [ ] Sleep/Wake
-- [ ] 📶 Ethernet
+- [x] 📶 Ethernet
 - [ ] 📶 Intel WiFi
 - [ ] 📶 Intel Bluetooth
 - [x] 🔌 USB 2.0
