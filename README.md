@@ -3,7 +3,7 @@ Hackintosh for Z390i
 
 ## TODO List
 
-- [ ] CPU 电源管理 (?)
+- [x] CPU Power Management
 - [ ] Intel Graphics (Low Priority)
   - [ ] HDMI
   - [ ] DisplayPort
