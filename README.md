@@ -7,6 +7,7 @@
   - [ ] HDMI
   - [ ] DisplayPort
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
+  - [ ] DRM (?)
 - [x] Sleep/Wake (⚠️ Further testing required)
   - [ ] Stay Asleep (Not Tested)
   - [ ] Features After Wake (Not Tested)
