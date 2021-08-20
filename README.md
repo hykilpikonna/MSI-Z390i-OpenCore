@@ -13,8 +13,7 @@
 - [x] 📶 Ethernet (⚠️ Further testing required)
 - [x] 📶 Intel WiFi
 - [x] 📶 Intel Bluetooth
-- [x] 🔌 USB 2.0
-- [ ] 🔌 All USB Ports (?)
+- [x] 🔌 [USB Ports](USB.png)
 - [ ] 💬 iMessage (Not Tested)
 - [x] 🎧 Realtek ALC892 Audio
 
