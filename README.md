@@ -4,12 +4,16 @@ Hackintosh for Z390i
 ## TODO List
 
 - [ ] CPU 电源管理 (?)
-- [ ] Intel Graphics
-- [x] 📶 Ethernet
-- [x] USB 2.0
-- [ ] All USB Ports (?)
+- [ ] Intel Graphics (Low Priority)
+  - [ ] HDMI
+  - [ ] DisplayPort
 - [ ] Sleep/Wake
+- [x] 📶 Ethernet
 - [ ] 📶 Intel WiFi
 - [ ] 📶 Intel Bluetooth
-- [ ] iMessage
-- [ ] 🎧 Audio Jack
+- [x] 🔌 USB 2.0
+- [ ] 🔌 All USB Ports (?)
+- [ ] 💬 iMessage
+- [ ] 🎧 Audio Output
+- [ ] 🎧 Audio Input
+
