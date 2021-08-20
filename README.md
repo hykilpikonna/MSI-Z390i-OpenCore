@@ -15,6 +15,5 @@ Hackintosh for Z390i
 - [x] 🔌 USB 2.0
 - [ ] 🔌 All USB Ports (?)
 - [ ] 💬 iMessage
-- [ ] 🎧 Audio Output
-- [ ] 🎧 Audio Input
+- [x] 🎧 Realtek ALC892 Audio
 
