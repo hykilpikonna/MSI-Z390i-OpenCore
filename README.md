@@ -7,6 +7,7 @@ Hackintosh for Z390i
 - [ ] Intel Graphics (Low Priority)
   - [ ] HDMI
   - [ ] DisplayPort
+- [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
 - [ ] Sleep/Wake
 - [x] 📶 Ethernet
 - [ ] 📶 Intel WiFi
