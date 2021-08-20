@@ -116,6 +116,13 @@
 				<key>layout-id</key>
 				<data>DwAAAA==</data>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<dict>
+				<key>AAPL,ig-platform-id</key>
+				<data>AwCRPg==</data>
+				<key>igfxfw</key>
+				<data>AgAAAA==</data>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
