@@ -1,5 +1,4 @@
-# MSI-Z390i-OpenCore
-Hackintosh for Z390i
+# MSI Z390i OpenCore for BigSur
 
 ## TODO List
 
@@ -8,13 +7,14 @@ Hackintosh for Z390i
   - [ ] HDMI
   - [ ] DisplayPort
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
-- [ ] Sleep/Wake
-- [x] 📶 Ethernet
+- [x] Sleep/Wake (⚠️ Further testing required)
+  - [ ] Stay Asleep (Not Tested)
+  - [ ] Features After Wake (Not Tested)
+- [x] 📶 Ethernet (⚠️ Further testing required)
 - [x] 📶 Intel WiFi
 - [x] 📶 Intel Bluetooth
 - [x] 🔌 USB 2.0
 - [ ] 🔌 All USB Ports (?)
-- [ ] 💬 iMessage
-- [ ] 🎧 Audio Output
-- [ ] 🎧 Audio Input
+- [ ] 💬 iMessage (Not Tested)
+- [x] 🎧 Realtek ALC892 Audio
 
