@@ -12,9 +12,10 @@ Tested on macOS 11.5.2
 | GPU | Gigabyte Radeon RX 5600 XT WindForce OC 6GB | $297.5 USD  |
 | SSD | ADATA SX8200PNP 512GB NVMe                  | $74.4 USD   |
 | HDD | HGST HTS721010A9E630 1TB                    | -           |
-| PSU | Corsair SF450 80+ Platinum                  | ￥621.8 CNY |
-| Fan | Noctua NH-L9x65                             | $53.1 USD |
-| Fan | Noctua NF-A9x14 PWM                         | $17.0 USD |
+| PSU | Corsair SF450 80+ Platinum                  | ￥621.8 CNY  |
+| Fan | Noctua NH-L9x65                             | $53.1 USD   |
+| Fan | Noctua NF-A9x14 PWM                         | $17.0 USD   |
+| Case | GEEEK A50                                  | ￥530.3 CNY  |
 
 ## Features
 
