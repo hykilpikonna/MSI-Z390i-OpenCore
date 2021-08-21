@@ -17,7 +17,6 @@ Tested on macOS 11.5.2
 - [x] 📶 Intel WiFi
 - [x] 📶 Intel Bluetooth
 - [x] 🔌 [USB Ports](USB.png)
-  - [ ] USB 2.0 Devices on 3.0 Ports after macOS 11.4
 - [x] 💬 iMessage
 - [x] 🎧 Realtek ALC892 Audio
 
