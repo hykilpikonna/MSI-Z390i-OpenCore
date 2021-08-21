@@ -29,8 +29,8 @@ Here's my hardware configuration and the actual price I paid when I bought it in
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
   - [ ] DRM (?)
 - [x] Sleep/Wake (⚠️ Further testing required)
-  - [ ] Stay Asleep (Not Tested)
-  - [ ] Features After Wake (Not Tested)
+  - [x] Stay Asleep (Tested for 8 hours)
+  - [x] Features Normal After Wake
 - [x] 📶 Ethernet (⚠️ Further testing required)
 - [x] 📶 Intel WiFi
 - [x] 📶 Intel Bluetooth
