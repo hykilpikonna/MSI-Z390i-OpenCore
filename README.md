@@ -28,7 +28,7 @@ Here's my hardware configuration and the actual price I paid when I bought it in
   - [ ] DisplayPort
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
   - [ ] DRM (?)
-- [x] Sleep/Wake (⚠️ Further testing required)
+- [x] Sleep/Wake
   - [x] Stay Asleep (Tested for 8 hours)
   - [x] Features Normal After Wake
 - [x] 📶 Ethernet (⚠️ Further testing required)
