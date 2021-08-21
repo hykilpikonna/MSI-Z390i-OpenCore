@@ -20,3 +20,6 @@ Tested on macOS 11.5.2
 - [x] 💬 iMessage
 - [x] 🎧 Realtek ALC892 Audio
 
+## Thanks To
+
+- Raine for [11.3 USB Fix](https://hackintosher.com/forums/thread/guide-how-to-properly-map-your-usb-ports-for-opencore-big-sur-11-4.11426/)
