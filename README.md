@@ -4,8 +4,10 @@ Tested on macOS 11.5.2
 
 ## Hardware Configuration
 
+Here's my hardware configuration and the actual price I paid when I bought it in Jun 2020 (including tax and local shipping fees).
+
 | Part | Name | Price (+VAT) |
-|:--|:--:|--:|
+|:--:|:--|--:|
 | MB  | MSI Z390i Gaming Edge AC                    | ￥1100.0 CNY |
 | CPU | i5 9600K                                    | $209.3 USD  |
 | Ram | 2 * 16GB DDR4 2666 Teclast                  | ￥598.0 CNY  |
@@ -16,6 +18,7 @@ Tested on macOS 11.5.2
 | Fan | Noctua NH-L9x65                             | $53.1 USD   |
 | Fan | Noctua NF-A9x14 PWM                         | $17.0 USD   |
 | Case | GEEEK A50                                  | ￥530.3 CNY  |
+|  -  | + International Shipping DHL                | ≈￥700 CNY   |
 
 ## Features
 
