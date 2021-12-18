@@ -1,6 +1,6 @@
-# MSI Z390i OpenCore for BigSur
+# MSI Z390i OpenCore for Monterey
 
-Tested on macOS 11.5.2
+Tested on macOS 12.1
 
 ## Hardware Configuration
 
