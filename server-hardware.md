@@ -6,4 +6,5 @@
 | PSU | ARESGAME 850W 80+Gold         | ￥350 | Amazon |
 | Fan | be quiet! BK009 150W          | ￥200 | Amazon | 
 | Case | Test bench case              | ￥150 | Taobao |
-|  -  | + International Shipping DHL  | ≈￥700 CNY   |
+|  -  | + International Shipping DHL  | ≈￥700 |
+|  -  | = Sum                         | =￥3710 |
