@@ -19,6 +19,7 @@ Here's my hardware configuration and the actual price I paid when I bought it in
 | Fan | Noctua NF-A9x14 PWM                         | $17.0 USD   |
 | Case | GEEEK A50                                  | ￥530.3 CNY  |
 |  -  | + International Shipping DHL                | ≈￥700 CNY   |
+|  -  | = Sum                                       | =￥7688.2 CNY |
 
 ## Features
 
