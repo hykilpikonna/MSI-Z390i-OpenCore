@@ -7,5 +7,5 @@
 | Fan | Cooler Master Hyper 212       | ￥311  | Amazon | 
 | Case |                              |        |        |
 | GPU | MSI GTX 1070 Armor OC         | ￥2000 | Kijiji |
-|  -  | + International Shipping DHL  | ￥292  |
+|  -  | + International Shipping EMS  | ￥292  |
 |  -  | = Sum                         | =￥5365 |
