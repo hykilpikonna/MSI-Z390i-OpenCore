@@ -8,4 +8,4 @@
 | Case | NZXT H510 Red (Open Box)     | ￥415  | Amazon |
 | GPU | MSI GTX 1070 Armor OC         | ￥2000 | Kijiji |
 |  -  | + International Shipping EMS  | ￥292  |
-|  -  | = Sum                         | =￥5365 |
+|  -  | = Sum                         | =￥5780 |
